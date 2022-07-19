@@ -1,7 +1,15 @@
 {
-  "name": "Learn Backend",
-  "author": "Thu Nguyen",
-  "dependencies": {
-    "express": "^4.18.1"
-  }
+	"name": "project",
+    "author": "Thu Nguyen",
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
 }
